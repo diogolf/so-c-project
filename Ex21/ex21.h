@@ -6,10 +6,7 @@ void imprime();
 
 struct Alunos{
 int idade;
-char nome[50];
-char universidade[50];
-char curso[50];
-char ano_frequencia[50];
+char nome[50],universidade[50],curso[50],ano_frequencia[50];
 };
 
 
